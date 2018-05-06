@@ -8,3 +8,7 @@ This repository contains my understanding of [SOLID principle](https://en.wikipe
  - [ ] [Wikipedia article on SOLID Principle](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
  - [ ] [Hackernoon Article on SOLID](https://hackernoon.com/solid-principles-made-easy-67b1246bcdf)
  - [ ] [Kudvenkat SOLID Tutorial Series](http://csharp-video-tutorials.blogspot.com/2018/01/solid-design-principles.html)
+
+ |Term Description|Code|Remarks|
+ |-----|----|-------|
+ |Single Responsibility Principle||Need to know fundamental knowledge of **Encapsulation**|
